@@ -51,3 +51,8 @@ Here is a set of few characteristic features of DataFrame −
 -   Can be easily integrated with all Big Data tools and frameworks via Spark-Core.
     
 -   Provides API for Python, Java, Scala, and R Programming.
+
+## Useful Resources
+[RDD vs DataFrame vs Datasets in Spark](https://databricks.com/blog/2016/07/14/a-tale-of-three-apache-spark-apis-rdds-dataframes-and-datasets.html)
+[Example Queries on DataFrame](https://sparkbyexamples.com/spark/different-ways-to-create-a-spark-dataframe/)
+[Basic information about Spark DataFrame](https://intellipaat.com/blog/tutorial/spark-tutorial/spark-dataframe/)
